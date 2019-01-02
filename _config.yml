@@ -1,0 +1,23 @@
+title: A Guide to Neighbour Dispute Claims
+remote_theme: opendocsg/opendoc-theme
+timezone: Asia/Singapore
+repository: opendocsg/opendoc-state-courts-guide-to-neighbour-dispute-claims
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+baseurl: ''
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
+google_analytics: --------> COPY GA ID HERE
+section_order:
+  - "Chapter 1: General Information"
+  - "Chapter 2: CDRT Proceedings"
+  - "Chapter 3: Case Summaries / Orders"
+  - "Chapter 4: Frequently Asked Questions"
+  - "Chapter 5: Court Fees"
+  - "Chapter 6: Sample Information for Filing"
+styling_options:
+  primary_brand_color: '#444'
+  logo_path: /assets/logo.png
+  opendoc_logo_path: /assets/images/logo-full.png
+  feedback_url: --------> COPY FEEDBACK URL HERE
