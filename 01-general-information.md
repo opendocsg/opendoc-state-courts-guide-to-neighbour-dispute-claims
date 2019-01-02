@@ -13,7 +13,9 @@ The CDRA only applies to acts committed on or after the date it came into force 
 
 ### Who is my neighbour?
 
-/</Insert picture here/>
+```
+Insert picture here
+```
 
 Your neighbour is a person who:
 
@@ -24,17 +26,65 @@ Your neighbour does NOT include a person who lives in the same place of residenc
 
 ### Examples of interference
 
-/</Insert picture here/>
+```
+Insert picture here
+```
+
+- Trespassing on your place of residence;
+- Causing excessive noise, smell, smoke, light or vibration;
+- Conducting surveillance on you or your place of residence, where the surveillance is done at or in the vicinity of your place of residence;
+- Littering at or in the vicinity of your place of residence;
+- Interfering with your movable property;
+- Obstructing your place of residence;
+- Allowing his animal to trespass on your place of residence, to cause excessive noise or smell, or to defecate or urinate at or in the vicinity of your place of residence.
 
 ### Evidence that may be brought before the CDRT
 
 You will need to present proof (or evidence) to support your claim. The proof can be in written form, photographs, pictures, or audio/video recordings
 
-/</Insert picture here/>
+```
+Insert picture here
+```
+
+- Photographs
+- Audio recordings
+- Letters inviting your neighbour or you to attend mediation on previous occasions
+- Video recordings
+- Letters from other government agencies such as • AVA • BCA • HDB • LTA • NEA • PUB • URA • SPF • SCDF etc.
+- Medical reports
+- Police reports
+- Previous mediation settlement agreements
+- Record of incident stating the date, time, frequency, type and severity of interference
+- Letters or notes that have been exchanged between your neighbour and you
+- CCTV footages
 
 ### Court orders that the CDRT can make
 
-/<Insert picture here>
+```
+Insert picture here
+```
+
+
+**DAMAGES**
+
+An order for your neighbour to pay you a sum of money
+(not more than $20,000)
+
+**INJUNCTION**
+
+An order for your neighbour to stop doing something (e.g. stop making noise)
+
+**SPECIFIC PERFORMANCE**
+
+An order for your neighbour to do something (e.g. remove obstruction)
+
+**APOLOGY**
+
+An order for your neighbour to apologise to you
+
+**OTHER ORDER**
+
+Any other order to give effect to the above orders
 
 ## (B) Before filing a Claim – Self-help remedies
 
@@ -84,7 +134,74 @@ Legal Advice Service
 
 ## (C) Community Disputes Resolution Tribunals Process Flowchart
 
-/</Insert picture here/>
+```
+Insert picture here
+```
+
+
+**Step 01:**
+
+> Plaintiff does Online Pre-Filing Assessment (PFA)
+
+**Step 02:**
+
+> Plaintiff files claim in Community Justice and Tribunals System (CJTS)
+
+**Step 03:**
+
+> CDRT issues Notice of Pre-Trial Conference (PTC) addressed to Plaintiff & Respondent 
+
+> _(PTC to be fixed within 4 weeks of filing)_
+
+**Step 04:**
+
+> Plaintiff serves claim & Notice of PTC on Respondent 
+
+> _(Within 14 days from date of filing)_
+
+**Step 04a:**
+
+> • Plaintiff files Declaration of Service (DOS) before PTC
+
+> • Respondent may commence e-Negotiation
+
+**Step 05:**
+
+> Respondent files & serves reply on Plaintiff 
+
+> _(Within 14 days from date of service)_
+
+**Step 06:**
+
+> Plaintiff & Respondent attend PTC
+
+**Step 06a:**
+
+> Mediation/Counselling (1 or more sessions) Parties may request for e-Mediation
+
+**Step 07:** _(Case is not settled)_
+
+> CDRT issues Notice of Hearing to Plaintiff & Respondent
+
+**Step 08:**
+
+> Plaintiff & Respondent attend hearing 
+
+**Step 09:** _(Case is withdrawn)_ or _(Case is settled)_
+
+> CDRT makes Court Order
+
+**Step 10:**
+
+> Step 10: Plaintiff serves Order on the Respondent
+
+_(If Court Order is breached)_
+
+> Plaintiff applies for Special Direction/Bond Order
+
+> Plaintiff files Magistrate’s Complaint
+
+> Plaintiff files for an Exclusion Order
 
 ## (D) Features of CDRT
 
