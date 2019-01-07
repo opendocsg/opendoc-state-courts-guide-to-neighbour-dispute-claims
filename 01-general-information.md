@@ -13,10 +13,6 @@ The CDRA only applies to acts committed on or after the date it came into force 
 
 ### Who is my neighbour?
 
-```
-Insert picture here
-```
-
 Your neighbour is a person who:
 
 - Lives in the same building as you; or
@@ -24,11 +20,9 @@ Your neighbour is a person who:
 
 Your neighbour does NOT include a person who lives in the same place of residence as you. 
 
-### Examples of interference
+![Alternative text if image doesn't load](/assets/image-1.png)
 
-```
-Insert picture here
-```
+### Examples of interference
 
 - Trespassing on your place of residence;
 - Causing excessive noise, smell, smoke, light or vibration;
@@ -38,13 +32,11 @@ Insert picture here
 - Obstructing your place of residence;
 - Allowing his animal to trespass on your place of residence, to cause excessive noise or smell, or to defecate or urinate at or in the vicinity of your place of residence.
 
+![Alternative text if image doesn't load](/assets/image-2.png)
+
 ### Evidence that may be brought before the CDRT
 
 You will need to present proof (or evidence) to support your claim. The proof can be in written form, photographs, pictures, or audio/video recordings
-
-```
-Insert picture here
-```
 
 - Photographs
 - Audio recordings
@@ -58,12 +50,9 @@ Insert picture here
 - Letters or notes that have been exchanged between your neighbour and you
 - CCTV footages
 
+![Alternative text if image doesn't load](/assets/image-3.png)
+
 ### Court orders that the CDRT can make
-
-```
-Insert picture here
-```
-
 
 **DAMAGES**
 
@@ -85,6 +74,8 @@ An order for your neighbour to apologise to you
 **OTHER ORDER**
 
 Any other order to give effect to the above orders
+
+![Alternative text if image doesn't load](/assets/image-4.png)
 
 ## (B) Before filing a Claim – Self-help remedies
 
@@ -134,10 +125,9 @@ Legal Advice Service
 
 ## (C) Community Disputes Resolution Tribunals Process Flowchart
 
-```
-Insert picture here
-```
+![Alternative text if image doesn't load](/assets/image-5a.png)
 
+![Alternative text if image doesn't load](/assets/image-5b.png)
 
 **Step 01:**
 
