@@ -1,5 +1,5 @@
 title: A Guide to Neighbour Dispute Claims
-remote_theme: opendocsg/opendoc-theme
+remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-state-courts-guide-to-neighbour-dispute-claims
 plugins:
@@ -8,6 +8,7 @@ plugins:
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
+offline: false
 google_analytics: UA-113717369-10
 section_order:
   - "Chapter 1: General Information"
