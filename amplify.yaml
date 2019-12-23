@@ -40,5 +40,3 @@ frontend:
           value: 'no-referrer'
         - key: 'Feature-Policy'
           value: "geolocation 'none'; microphone 'none'; camera 'none'"
-
-
